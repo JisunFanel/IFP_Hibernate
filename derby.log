@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 08 14:01:40 CEST 2020:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585) : instance a816c00e-0171-59aa-d50a-000004ebb560 
+dans le répertoire de base de données C:\Users\Sabrina\IdeaProjects\IFP_Project\DB\test_ifp avec le chargeur de classe jdk.internal.loader.ClassLoaders$AppClassLoader@78308db1
+Chargé de file:/C:/Users/Sabrina/Desktop/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.4+10-b304.77
+user.dir=C:\Users\Sabrina\IdeaProjects\IFP_Project
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
